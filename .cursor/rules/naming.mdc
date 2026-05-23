@@ -1,0 +1,30 @@
+---
+description: Product naming methodology — mine the brand's existing vocabulary first, converge through register pivots, scale to suite architecture when warranted.
+alwaysApply: false
+---
+
+# Naming methodology
+
+## Principle
+
+Name from the client's existing vocabulary first. Generic startup-name generators produce names that feel cheap.
+
+## Workflow
+
+1. Understand the product's function (verb + parts + user relationship)
+2. Mine vocabulary in order: existing names → voice docs → DB → memory → industry → classical → cross-cultural
+3. Generate 10 candidates with source + meaning + register + pronounceability
+4. Present 3-5 finalists, ask for taste pivot
+5. Commit + document finalists
+
+## Suite framing
+
+If signal is multi-product: pick thematic root, role hierarchy, name from same root.
+
+## Anti-patterns
+
+- Starting with the name generator
+- SEO before semantics
+- Names that explain themselves (`simpleinvoicing.com`)
+- Forcing suite framing on single product
+- Ignoring user's taste pivot
