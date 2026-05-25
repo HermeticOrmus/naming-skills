@@ -1,6 +1,23 @@
-# Naming Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Naming Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for product naming methodology. Mine the brand's vocabulary, converge through register pivots, scale to suite architecture when warranted.
+<h1 align="center">Naming Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for product naming methodology — iteratively converge on names by mining existing vocabulary, register pivots, and product-suite architecture when scope expands.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/naming-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/naming-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/naming-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/naming-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/naming-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/naming-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for product naming methodology. Mine the brand's vocabulary, converge through register pivots, scale to suite architecture when warranted.**
 
 ## The principle
 
